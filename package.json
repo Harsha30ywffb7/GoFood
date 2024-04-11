@@ -1,0 +1,41 @@
+{
+  "name": "gofood",
+  "version": "1.0.0",
+  "description": "Food ordering app using react, tailwind and redux.",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harsha30ywffb7/GoFood.git"
+  },
+  "keywords": [
+    "React",
+    "FoodApp",
+    "tailwind",
+    "redux",
+    "Api",
+    "parcel"
+  ],
+  "author": "HarshaVardhan Gulla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harsha30ywffb7/GoFood/issues"
+  },
+  "homepage": "https://github.com/Harsha30ywffb7/GoFood#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "postcss": "^8.4.38",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.3"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.2.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^9.1.0",
+    "react-router-dom": "^6.22.3"
+  }
+}
