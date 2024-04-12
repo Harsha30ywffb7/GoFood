@@ -3124,7 +3124,7 @@ $RefreshReg$(_c1, "App");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","react-dom/client":"lOjBx","./Components/Header":"fNIx6","./Components/Body":"fRZnA","./Components/Footer":"eUZ6J","./Components/About":"19tXb","./Components/Error":"iQH4s","./Components/Cart":"1uLGT","./Components/Support":"1mBpo","./Components/RestarauntMenu":"9maqd","react-router-dom":"9xmpe","./Utils/userContext":"b31OD","react-redux":"62sf7","./Utils/appStore":"lBEwM","17d045fe8f1ef2bf":"cGtEz","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"iTorj":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","react-dom/client":"lOjBx","./Components/Header":"fNIx6","./Components/Body":"6J35F","./Components/Footer":"eUZ6J","./Components/About":"19tXb","./Components/Error":"iQH4s","./Components/Cart":"c9G2d","./Components/Support":"1mBpo","./Components/RestarauntMenu":"9maqd","react-router-dom":"9xmpe","./Utils/userContext":"b31OD","react-redux":"62sf7","./Utils/appStore":"lBEwM","17d045fe8f1ef2bf":"cGtEz","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"iTorj":[function(require,module,exports) {
 "use strict";
 module.exports = require("ee51401569654d91");
 
@@ -35388,11 +35388,11 @@ module.exports = require("374a059340689e89");
     /* global __REACT_DEVTOOLS_GLOBAL_HOOK__ */ if (typeof __REACT_DEVTOOLS_GLOBAL_HOOK__ !== "undefined" && typeof __REACT_DEVTOOLS_GLOBAL_HOOK__.registerInternalModuleStop === "function") __REACT_DEVTOOLS_GLOBAL_HOOK__.registerInternalModuleStop(new Error());
 })();
 
-},{"8b38fc6c74f16e20":"21dqq"}],"fRZnA":[function(require,module,exports) {
-var $parcel$ReactRefreshHelpers$66b1 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
+},{"8b38fc6c74f16e20":"21dqq"}],"6J35F":[function(require,module,exports) {
+var $parcel$ReactRefreshHelpers$4f14 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 var prevRefreshReg = window.$RefreshReg$;
 var prevRefreshSig = window.$RefreshSig$;
-$parcel$ReactRefreshHelpers$66b1.prelude(module);
+$parcel$ReactRefreshHelpers$4f14.prelude(module);
 
 try {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
@@ -35444,7 +35444,7 @@ const Body = ()=>{
                             setSearchText(e.target.value);
                         }
                     }, void 0, false, {
-                        fileName: "src/Components/Body.jsx",
+                        fileName: "src/Components/Body.js",
                         lineNumber: 41,
                         columnNumber: 7
                     }, undefined),
@@ -35456,18 +35456,18 @@ const Body = ()=>{
                         },
                         children: "Search"
                     }, void 0, false, {
-                        fileName: "src/Components/Body.jsx",
+                        fileName: "src/Components/Body.js",
                         lineNumber: 48,
                         columnNumber: 7
                     }, undefined)
                 ]
             }, void 0, true, {
-                fileName: "src/Components/Body.jsx",
+                fileName: "src/Components/Body.js",
                 lineNumber: 40,
                 columnNumber: 5
             }, undefined),
             allRestaraunts?.length === 0 ? /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _shimmerDefault.default), {}, void 0, false, {
-                fileName: "src/Components/Body.jsx",
+                fileName: "src/Components/Body.js",
                 lineNumber: 58,
                 columnNumber: 35
             }, undefined) : /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35478,18 +35478,18 @@ const Body = ()=>{
                         children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _restarauntCardDefault.default), {
                             ...restaraunt.info
                         }, restaraunt.info.id, false, {
-                            fileName: "src/Components/Body.jsx",
+                            fileName: "src/Components/Body.js",
                             lineNumber: 66,
                             columnNumber: 19
                         }, undefined)
                     }, restaraunt.info.id, false, {
-                        fileName: "src/Components/Body.jsx",
+                        fileName: "src/Components/Body.js",
                         lineNumber: 63,
                         columnNumber: 24
                     }, undefined);
                 })
             }, void 0, false, {
-                fileName: "src/Components/Body.jsx",
+                fileName: "src/Components/Body.js",
                 lineNumber: 60,
                 columnNumber: 7
             }, undefined)
@@ -35502,7 +35502,7 @@ exports.default = Body;
 var _c;
 $RefreshReg$(_c, "Body");
 
-  $parcel$ReactRefreshHelpers$66b1.postlude(module);
+  $parcel$ReactRefreshHelpers$4f14.postlude(module);
 } finally {
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
@@ -38228,11 +38228,11 @@ $RefreshReg$(_c, "Error");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","react-router-dom":"9xmpe","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"1uLGT":[function(require,module,exports) {
-var $parcel$ReactRefreshHelpers$500d = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","react-router-dom":"9xmpe","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"c9G2d":[function(require,module,exports) {
+var $parcel$ReactRefreshHelpers$d05f = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 var prevRefreshReg = window.$RefreshReg$;
 var prevRefreshSig = window.$RefreshSig$;
-$parcel$ReactRefreshHelpers$500d.prelude(module);
+$parcel$ReactRefreshHelpers$d05f.prelude(module);
 
 try {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
@@ -38267,13 +38267,13 @@ const Cart = ()=>{
                         className: "ml-40 bg-orange-500 text-white text-sm rounded-lg px-1 py-1",
                         children: "Clear Cart"
                     }, void 0, false, {
-                        fileName: "src/Components/Cart.jsx",
+                        fileName: "src/Components/Cart.js",
                         lineNumber: 19,
                         columnNumber: 31
                     }, undefined)
                 ]
             }, void 0, true, {
-                fileName: "src/Components/Cart.jsx",
+                fileName: "src/Components/Cart.js",
                 lineNumber: 18,
                 columnNumber: 7
             }, undefined),
@@ -38283,7 +38283,7 @@ const Cart = ()=>{
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _itemsListDefault.default), {
                         Items: cartItems
                     }, void 0, false, {
-                        fileName: "src/Components/Cart.jsx",
+                        fileName: "src/Components/Cart.js",
                         lineNumber: 22,
                         columnNumber: 10
                     }, undefined),
@@ -38291,19 +38291,19 @@ const Cart = ()=>{
                         className: "text-xl font-semibold mt-40 text-center text-orange-500",
                         children: "\uD83D\uDED2cart is empty please add items"
                     }, void 0, false, {
-                        fileName: "src/Components/Cart.jsx",
+                        fileName: "src/Components/Cart.js",
                         lineNumber: 23,
                         columnNumber: 36
                     }, undefined)
                 ]
             }, void 0, true, {
-                fileName: "src/Components/Cart.jsx",
+                fileName: "src/Components/Cart.js",
                 lineNumber: 21,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
-        fileName: "src/Components/Cart.jsx",
+        fileName: "src/Components/Cart.js",
         lineNumber: 17,
         columnNumber: 5
     }, undefined);
@@ -38319,7 +38319,7 @@ exports.default = Cart;
 var _c;
 $RefreshReg$(_c, "Cart");
 
-  $parcel$ReactRefreshHelpers$500d.postlude(module);
+  $parcel$ReactRefreshHelpers$d05f.postlude(module);
 } finally {
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
