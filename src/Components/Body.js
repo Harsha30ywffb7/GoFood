@@ -9,6 +9,7 @@ import filterData from '../Utils/helper';
 import { withPromotedLabel } from './RestarauntCard';
 import userContext from '../Utils/userContext';
 
+// 93810 55319
 const Body = () => {
 
   const [searchText, setSearchText] = useState("");
@@ -18,8 +19,6 @@ const Body = () => {
   const [allRestaraunts,setAllRestaraunts] = useState([]);
   //filtered copy
   const [filteredRestaraunts, setFilteredRestaurants]= useState([]);
-
-  console.log("normal page render");
 
   useEffect(()=>{
     getRestaraunts();
