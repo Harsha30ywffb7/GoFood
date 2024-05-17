@@ -2,10 +2,8 @@
 63E:\Github-Desktop\GoFood\GoFood\node_modules\postcss-js\sync.js133573297077129582 0
 75E:\Github-Desktop\GoFood\GoFood\node_modules\@swc\helpers\_\_inherits_loose133573295101878829 1
 79E:\Github-Desktop\GoFood\GoFood\node_modules\yaml\browser\dist\nodes\YAMLSeq.js133573297089475107 0
-58E:\Github-Desktop\GoFood\GoFood\dist\index.7271efb6.js.map133604344001402538 0
 112E:\Github-Desktop\GoFood\GoFood\node_modules\sucrase\dist\esm\transformers\OptionalChainingNullishTransformer.js133573297087933415 0
 85E:\Github-Desktop\GoFood\GoFood\node_modules\yaml\dist\compose\util-map-includes.d.ts133573297090878879 0
-54E:\Github-Desktop\GoFood\GoFood\dist\index.7271efb6.js133604343998864719 0
 75E:\Github-Desktop\GoFood\GoFood\node_modules\@parcel\codeframe\package.json133573295052487747 0
 74E:\Github-Desktop\GoFood\GoFood\node_modules\glob\dist\commonjs\index.d.ts133573297086845462 0
 75E:\Github-Desktop\GoFood\GoFood\node_modules\update-browserslist-db\LICENSE133573295007959462 0
@@ -37,7 +35,7 @@
 78E:\Github-Desktop\GoFood\GoFood\node_modules\tailwindcss\lib\util\nameClass.js133573297089631915 0
 80E:\Github-Desktop\GoFood\GoFood\node_modules\@parcel\utils\src\parseCSSImport.js133573295069588882 0
 67E:\Github-Desktop\GoFood\GoFood\node_modules\path-type\package.json133573295007861583 0
-36E:\Github-Desktop\GoFood\GoFood\dist133604344001501164 1
+36E:\Github-Desktop\GoFood\GoFood\dist133604352523979563 1
 80E:\Github-Desktop\GoFood\GoFood\node_modules\@jridgewell\trace-mapping\README.md133573297077798019 0
 84E:\Github-Desktop\GoFood\GoFood\node_modules\@nodelib\fs.walk\out\readers\async.d.ts133573297081253812 0
 92E:\Github-Desktop\GoFood\GoFood\node_modules\wrap-ansi\node_modules\ansi-styles\package.json133573297075056400 0
@@ -89,7 +87,7 @@
 65E:\Github-Desktop\GoFood\GoFood\node_modules\@nodelib\fs.stat\out133573297080571477 1
 64E:\Github-Desktop\GoFood\GoFood\node_modules\nth-check\README.md133573295042851819 0
 99E:\Github-Desktop\GoFood\GoFood\node_modules\@types\use-sync-external-store\shim\with-selector.d.ts133573299471528195 0
-56E:\Github-Desktop\GoFood\GoFood\src\Components\Header.js133572456399119248 0
+56E:\Github-Desktop\GoFood\GoFood\src\Components\Header.js133604352519488834 0
 61E:\Github-Desktop\GoFood\GoFood\node_modules\lmdb\src\txn.cpp133573295076652862 0
 86E:\Github-Desktop\GoFood\GoFood\node_modules\type-fest\source\require-exactly-one.d.ts133573295052261588 0
 119E:\Github-Desktop\GoFood\GoFood\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\scope\value.js133573295082137549 0
@@ -7277,7 +7275,7 @@
 104E:\Github-Desktop\GoFood\GoFood\node_modules\@swc\helpers\_\_class_extract_field_descriptor\package.json133573295092983043 0
 117E:\Github-Desktop\GoFood\GoFood\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\api\inheritance.schema.json133573295034856116 0
 103E:\Github-Desktop\GoFood\GoFood\node_modules\@swc\helpers\_\_class_apply_descriptor_update\package.json133573295092500445 0
-55E:\Github-Desktop\GoFood\GoFood\dist\index.4d663569.css133573727103062742 0
+55E:\Github-Desktop\GoFood\GoFood\dist\index.4d663569.css133604352522221231 0
 100E:\Github-Desktop\GoFood\GoFood\node_modules\@swc\helpers\_\_class_apply_descriptor_get\package.json133573295092264571 0
 85E:\Github-Desktop\GoFood\GoFood\node_modules\@swc\helpers\_\_await_value\package.json133573295091773088 0
 89E:\Github-Desktop\GoFood\GoFood\node_modules\@reduxjs\toolkit\src\query\utils\isOnline.ts133573299193205858 0
@@ -8766,8 +8764,10 @@
 76E:\Github-Desktop\GoFood\GoFood\node_modules\.bin\update-browserslist-db.cmd133573295154461098 0
 54E:\Github-Desktop\GoFood\GoFood\node_modules\.bin\yaml133573297092508808 0
 58E:\Github-Desktop\GoFood\GoFood\node_modules\.bin\yaml.cmd133573297092508808 0
-59E:\Github-Desktop\GoFood\GoFood\dist\index.4d663569.css.map133573727103317155 0
-47E:\Github-Desktop\GoFood\GoFood\dist\index.html133573727107763528 0
-58E:\Github-Desktop\GoFood\GoFood\dist\Instamart.a637c389.js133573727107763528 0
-62E:\Github-Desktop\GoFood\GoFood\dist\Instamart.a637c389.js.map133573727107977650 0
-54E:\Github-Desktop\GoFood\GoFood\dist\logo.ad812a23.png133573727074287986 0
+54E:\Github-Desktop\GoFood\GoFood\dist\logo.ad812a23.png133604352522004952 0
+59E:\Github-Desktop\GoFood\GoFood\dist\index.4d663569.css.map133604352522255634 0
+58E:\Github-Desktop\GoFood\GoFood\dist\Instamart.a637c389.js133604352523748039 0
+47E:\Github-Desktop\GoFood\GoFood\dist\index.html133604352523748039 0
+54E:\Github-Desktop\GoFood\GoFood\dist\index.7271efb6.js133604352523748039 0
+62E:\Github-Desktop\GoFood\GoFood\dist\Instamart.a637c389.js.map133604352523920419 0
+58E:\Github-Desktop\GoFood\GoFood\dist\index.7271efb6.js.map133604352523959634 0

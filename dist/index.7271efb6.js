@@ -27429,8 +27429,8 @@ const Header = ()=>{
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
                             className: "px-4",
                             children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
-                                to: "/support",
-                                children: "Support"
+                                to: "/instamart",
+                                children: "Instamart"
                             }, void 0, false, {
                                 fileName: "src/Components/Header.js",
                                 lineNumber: 30,
@@ -27442,26 +27442,11 @@ const Header = ()=>{
                             columnNumber: 15
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
-                            className: "px-4",
-                            children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
-                                to: "/instamart",
-                                children: "Instamart"
-                            }, void 0, false, {
-                                fileName: "src/Components/Header.js",
-                                lineNumber: 31,
-                                columnNumber: 36
-                            }, undefined)
-                        }, void 0, false, {
-                            fileName: "src/Components/Header.js",
-                            lineNumber: 31,
-                            columnNumber: 15
-                        }, undefined),
-                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
                             className: "px-4 font-bold",
                             children: username
                         }, void 0, false, {
                             fileName: "src/Components/Header.js",
-                            lineNumber: 32,
+                            lineNumber: 31,
                             columnNumber: 15
                         }, undefined)
                     ]
@@ -27483,12 +27468,12 @@ const Header = ()=>{
                     children: isLogged ? "logout" : "login"
                 }, void 0, false, {
                     fileName: "src/Components/Header.js",
-                    lineNumber: 37,
+                    lineNumber: 36,
                     columnNumber: 8
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/Components/Header.js",
-                lineNumber: 36,
+                lineNumber: 35,
                 columnNumber: 8
             }, undefined)
         ]
