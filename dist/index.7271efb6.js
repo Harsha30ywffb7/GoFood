@@ -35411,6 +35411,7 @@ var _reactRouterDom = require("react-router-dom");
 var _helper = require("../Utils/helper");
 var _helperDefault = parcelHelpers.interopDefault(_helper);
 var _s = $RefreshSig$();
+// 93810 55319
 const Body = ()=>{
     _s();
     const [searchText, setSearchText] = (0, _react.useState)("");
@@ -35419,7 +35420,6 @@ const Body = ()=>{
     const [allRestaraunts, setAllRestaraunts] = (0, _react.useState)([]);
     //filtered copy
     const [filteredRestaraunts, setFilteredRestaurants] = (0, _react.useState)([]);
-    console.log("normal page render");
     (0, _react.useEffect)(()=>{
         getRestaraunts();
         console.log("use-effect calls");
@@ -35445,7 +35445,7 @@ const Body = ()=>{
                         }
                     }, void 0, false, {
                         fileName: "src/Components/Body.js",
-                        lineNumber: 41,
+                        lineNumber: 40,
                         columnNumber: 7
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -35457,18 +35457,18 @@ const Body = ()=>{
                         children: "Search"
                     }, void 0, false, {
                         fileName: "src/Components/Body.js",
-                        lineNumber: 48,
+                        lineNumber: 47,
                         columnNumber: 7
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/Components/Body.js",
-                lineNumber: 40,
+                lineNumber: 39,
                 columnNumber: 5
             }, undefined),
             allRestaraunts?.length === 0 ? /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _shimmerDefault.default), {}, void 0, false, {
                 fileName: "src/Components/Body.js",
-                lineNumber: 58,
+                lineNumber: 57,
                 columnNumber: 35
             }, undefined) : /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 className: "flex flex-wrap justify-center mx-10",
@@ -35479,18 +35479,18 @@ const Body = ()=>{
                             ...restaraunt.info
                         }, restaraunt.info.id, false, {
                             fileName: "src/Components/Body.js",
-                            lineNumber: 66,
+                            lineNumber: 65,
                             columnNumber: 19
                         }, undefined)
                     }, restaraunt.info.id, false, {
                         fileName: "src/Components/Body.js",
-                        lineNumber: 63,
+                        lineNumber: 62,
                         columnNumber: 24
                     }, undefined);
                 })
             }, void 0, false, {
                 fileName: "src/Components/Body.js",
-                lineNumber: 60,
+                lineNumber: 59,
                 columnNumber: 7
             }, undefined)
         ]
